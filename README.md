@@ -1,4 +1,4 @@
-# power_bi_data_modeling
+# Power Bi data modeling project
 # Introduction:
   The challenge of this project is to turn a truly complicated dataset of 23 files of an unclear structure taken from various source systems into a functioning star schema model in Power BI. The initial dataset was characterized by the inconsistencies in its structure, duplication of identifiers, presence of free text, as well as the different levels of granularity of various tables, and thus the cleansing and normalization were required first. The main effort was devoted to identifying which tables would be used as facts and which as dimensions and establishing their relations, and the final model included 6 fact tables and 7 dimension tables.
 
